@@ -1,6 +1,11 @@
 # Thesis Title
 ## Abstract
+
 ## Introduction
+
+### Motivation
+
+### Demotivation
 
 ## Theory
 
