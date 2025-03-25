@@ -8,4 +8,4 @@
 
 ## Discussion
 
-## Material & mehods
+## Material & methods
