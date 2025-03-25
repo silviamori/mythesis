@@ -1,5 +1,8 @@
 # Towards prediction of antibiotic Mode of Action using high-throughput imaging and AI
 Felix Knote (AG Zimmer, RVZ Würzburg)
+
+## Abstract
+
 ## Introduction
 Antibiotic resistance is fueling a growing global health crisis, necessitating the discovery of antibacterial compounds with
 novel modes of action (MoAs). The decline in new antibiotic approvals, coupled with the rise of multi-resistant pathogens,
@@ -12,10 +15,17 @@ genes, we use a CRISPRi technique allowing to induce their repression in a finel
 efforts to create and phenotype these inducible mutants in E. coli. This work contributes to the establishment of a pipeline that 
 will accelerate the search for novel antibiotics against antimicrobial resistant bacteria.
 
+### Motivation
+
+### Demotivation
+
 ## Theory
+loli pop
 
-## Experiment
+## Results
 
-## Conclusion
+## Discussion
+
+## Material & methods
 
 ## Appendix
