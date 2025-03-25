@@ -4,7 +4,7 @@
 
 ### Motivation
 
-### Demotivatin
+### Demotivation
 
 ## Theory
 
