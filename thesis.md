@@ -1,6 +1,12 @@
-# Thesis Thesis
+# Thesis Title
+
+## Abstract
 
 ## Introduction
+
+### Motivation
+
+### Demotivation
 
 ## Theory
 loli pop
