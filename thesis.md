@@ -2,6 +2,10 @@
 
 ## Abstract
 
+
+## Introduction
+
+
 ## Introduction
 
 ### Motivation
@@ -11,8 +15,11 @@
 ## Theory
 loli pop
 
-## Experiment
+## Results
 
-## Conclusion
+## Discussion
+
+## Material & methods
 
 ## Appendix
+
