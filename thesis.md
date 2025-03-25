@@ -1,4 +1,4 @@
-# Thesis Title
+# Thesis Thesis
 
 ## Introduction
 
